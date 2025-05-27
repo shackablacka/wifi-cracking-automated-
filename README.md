@@ -11,7 +11,7 @@
 ## Requirements
 
 ```bash
-sudo apt install aircrack-ng dnsmasq lighttpd php php-cli zenity xterm
+
 
 
 
