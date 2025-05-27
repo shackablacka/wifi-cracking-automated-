@@ -22,6 +22,6 @@ sudo apt install aircrack-ng hcxdumptool hcxpcapngtool hashcat zenity
 
 USAGE!!!!
 
-chmod +x wifi_attack_gui.sh
+chmod +x wificrack.sh
 
-sudo ./wifi_attack_gui.sh
+sudo ./wificrack.sh
